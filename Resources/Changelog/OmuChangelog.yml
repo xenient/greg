@@ -3651,3 +3651,11 @@ Entries:
       message: Fixed Abductors being able to abduct people across maps.
   id: 469
   time: '2026-05-03T11:46:12.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: >-
+        Command is no longer exempt to the metashield, refer to the command
+        training manual to see what you know.
+  id: 470
+  time: '2026-05-03T11:48:05.0000000+00:00'
