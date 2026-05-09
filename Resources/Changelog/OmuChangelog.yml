@@ -3747,3 +3747,11 @@ Entries:
       message: Added the syndicate mediborg to nukeops uplinks
   id: 482
   time: '2026-05-09T20:12:04.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: 'Crew manifest now shows the gender of crew. '
+    - type: Fix
+      message: 'Fixed long names overflowing into the job section of the crew manifest. '
+  id: 483
+  time: '2026-05-09T20:36:02.0000000+00:00'
