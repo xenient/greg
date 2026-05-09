@@ -3767,3 +3767,21 @@ Entries:
       message: Betrayal knife no longer works in Zero G
   id: 485
   time: '2026-05-09T20:58:29.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Added a selector for vox raiders to pick from a list of sets.
+    - type: Tweak
+      message: >-
+        Changed the IFF console on the vox raider shuttle from true invisibility
+        to simply hiding the name
+    - type: Tweak
+      message: 'Vox raider''s suits are now less armored. '
+    - type: Remove
+      message: >-
+        Vox raiders no longer receive nocturine or chameleon projectors (You get
+        your tools from your selector)
+    - type: Remove
+      message: Removed vox raider's death acidifier
+  id: 486
+  time: '2026-05-09T21:04:25.0000000+00:00'
