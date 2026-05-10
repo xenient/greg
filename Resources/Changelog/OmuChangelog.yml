@@ -3946,3 +3946,9 @@ Entries:
       message: Medical doctors have like 2 more shoes in their loadout hooray
   id: 500
   time: '2026-05-10T00:30:30.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Fix
+      message: Fixed IAA guidebook mentioning midpoint
+  id: 501
+  time: '2026-05-10T02:27:36.0000000+00:00'
