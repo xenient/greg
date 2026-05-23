@@ -4200,3 +4200,9 @@ Entries:
       message: Fixed the requirements on NCT.
   id: 535
   time: '2026-05-23T22:10:06.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Fix
+      message: Bagel now has a sergeant slot.
+  id: 536
+  time: '2026-05-23T22:13:25.0000000+00:00'
