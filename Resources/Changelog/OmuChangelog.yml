@@ -4168,3 +4168,9 @@ Entries:
       message: Added a new radio ad!
   id: 530
   time: '2026-05-23T21:40:32.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Fix
+      message: Station pets that attack hostiles will no longer attack station turrets
+  id: 531
+  time: '2026-05-23T21:50:49.0000000+00:00'
