@@ -4258,3 +4258,9 @@ Entries:
       message: Ported Cyan alert from Funky
   id: 543
   time: '2026-05-29T11:46:43.0000000+00:00'
+- author: RedstonewolfX
+  changes:
+    - type: Add
+      message: Ported Reptilian dragon antlers from GoobStation.
+  id: 544
+  time: '2026-05-29T11:47:45.0000000+00:00'
